@@ -140,3 +140,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# dataset file
+*.pkl
+*.gz
+mnist.py
